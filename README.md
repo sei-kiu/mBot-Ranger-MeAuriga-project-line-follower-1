@@ -2,4 +2,4 @@
 
 Movement would depend on output of line sensor.
 
-mBot Ranger
+mBot Ranger is powered by MeAuriga which is based on Arduino Mega2560
